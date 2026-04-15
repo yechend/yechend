@@ -43,6 +43,8 @@ My experience spans:
 
 **Analytics & Visualisation:** Tableau, Data Visualisation, Dashboarding, Analytical Storytelling  
 
+**Finance & Markets:** Financial Markets, Quantitative Analysis, Time Series Analysis, Risk/Return Analysis, Investment Research  
+
 **Optimisation & Algorithms:** Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms  
 
 ---
