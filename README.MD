@@ -36,13 +36,9 @@ My experience spans:
 **Languages:** Python, SQL, R, Java, Bash (Linux)  
 **Data & Analytics:** Statistical Modelling, Machine Learning, Feature Engineering, NLP, LLM Applications, Data Wrangling, Model Evaluation  
 **Data Engineering & Systems:** Data Pipelines, REST APIs, PostgreSQL, PySpark, Data Integration, High-Performance Computing (HPC), Parallel Processing  
-
 **Cloud & Platforms:** AWS (SageMaker), Kubernetes, Elasticsearch, Git/GitHub  
-
 **Analytics & Visualisation:** Tableau, Data Visualisation, Dashboarding, Analytical Storytelling  
-
 **Finance & Markets:** Financial Markets, Quantitative Analysis, Time Series Analysis, Risk/Return Analysis, Investment Research  
-
 **Optimisation & Algorithms:** Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms  
 
 ---
