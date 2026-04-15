@@ -35,7 +35,7 @@ My experience spans:
 
 **Languages:** Python, SQL, R, Java, Bash (Linux)  
 
-**Data & Analytics:** Statistical Modelling, Machine Learning, Feature Engineering, Exploratory Data Analysis (EDA), Data Wrangling, Model Evaluation  
+**Data & Analytics:** Statistical Modelling, Machine Learning, Feature Engineering, NLP, LLM Applications, Data Wrangling, Model Evaluation  
 
 **Data Engineering & Systems:** Data Pipelines, REST APIs, PostgreSQL, PySpark, Data Integration, High-Performance Computing (HPC), Parallel Processing  
 
