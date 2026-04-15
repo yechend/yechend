@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
 I’m a data science postgraduate with a background in finance, focused on applying **data, AI, and analytics to real-world decision-making problems**.
 
