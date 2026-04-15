@@ -55,23 +55,23 @@ Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms
 
 ## 📌 Featured Projects
 
-### 🔹 [NLP Fact-Checking Pipeline](https://github.com/yechend/llm-nlp-fact-checking)
+### 🔹 [NLP Fact-Checking Pipeline – Information Retrieval & Classification](https://github.com/yechend/llm-nlp-fact-checking)
 - Processed **1.2M+ data records** using hybrid retrieval, re-ranking, and classification  
 - Built a scalable modular pipeline with evaluation framework (**93/100, top-10 ranking**)  
 
-### 🔹 [Urban Data Cloud Pipeline](https://github.com/yechend/urban-data-cloud-pipeline)
+### 🔹 [Cloud Data Pipeline – Real-Time Processing & Distributed Systems](https://github.com/yechend/urban-data-cloud-pipeline)
 - Designed a **real-time data pipeline** with Kubernetes and serverless architecture  
 - Enabled scalable ingestion and querying for city-scale datasets  
 
-### 🔹 [Game AI – Reinforcement Learning & Planning](https://github.com/yechend/sequence-ai-planning-rl)
+### 🔹 [Game AI – Reinforcement Learning, Search & Planning](https://github.com/yechend/sequence-ai-planning-rl)
 - Developed and evaluated **three AI agents** under one-second decision constraints  
 - Achieved **78%+ win rate** and **top-7/94 teams** in a competitive tournament  
 
-### 🔹 [RescueBot – Java Simulation Engine](https://github.com/yechend/rescuebot-simulation-java)
+### 🔹 [Java Simulation Engine – Object-Oriented Design & Decision Systems](https://github.com/yechend/rescuebot-simulation-java)
 - Built a modular **Java decision engine** using object-oriented design and rule-based logic  
 - Improved maintainability and structured problem solving through class hierarchies and constrained decision modelling  
 
-### 🔹 Large-Scale Twitter Data Analysis
+### 🔹 Large-Scale Data Processing – HPC & Parallel Computing
 - Processed a **120GB Twitter dataset** using parallel computing workflows  
 - Achieved **7.5× speedup on 1 core** and **30× speedup on 8 cores** through optimisation  
 
