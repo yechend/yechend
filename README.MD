@@ -13,7 +13,7 @@ I’m a data science postgraduate with a background in finance, focused on apply
 I enjoy working across the full lifecycle of data projects — from **data wrangling and exploratory analysis to modelling, evaluation, and delivering actionable insights**.
 
 My experience spans:
-- 📊 Data science & machine learning on large-scale datasets (millions of records)
+- 📊 Data science & machine learning on large-scale datasets
 - ⚙️ Building data pipelines, APIs, and scalable systems
 - 📈 Translating analysis into **business insights and recommendations**
 - 🤝 Collaborating with stakeholders in fast-paced environments
