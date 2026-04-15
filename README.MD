@@ -1,6 +1,8 @@
 # Hi, I'm Yechen (Eachann) Deng 👋
 
-🎓 Master of Data Science & Management (Finance) @ University of Melbourne · 📍 Melbourne, Australia
+🎓 Master of Data Science & Management (Finance) @ University of Melbourne · 📍 Melbourne, Australia  
+
+📊 Data Science | Analytics | Data-Driven Decision Making  
 
 ---
 
