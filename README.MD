@@ -26,7 +26,8 @@ My experience spans:
 - AI / LLM applications  
 - Product & Customer Analytics  
 - Data-driven decision making  
-- Quantitative & analytical problem solving  
+- Quantitative & analytical problem solving
+- Financial Markets, Quantitative Research & Systematic Investment Strategies
 
 ---
 
