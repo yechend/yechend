@@ -56,7 +56,7 @@ Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms
 ## 📌 Featured Projects
 
 ### 🔹 [NLP Fact-Checking Pipeline](https://github.com/yechend/llm-nlp-fact-checking)
-- Processed **1.2M+ data points** using retrieval, re-ranking, and classification  
+- Processed **1.2M+ data records** using hybrid retrieval, re-ranking, and classification  
 - Built a scalable modular pipeline with evaluation framework (**93/100, top-10 ranking**)  
 
 ### 🔹 [Urban Data Cloud Pipeline](https://github.com/yechend/urban-data-cloud-pipeline)
