@@ -33,24 +33,17 @@ My experience spans:
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, R, Java, Bash (Linux)
+**Languages:** Python, SQL, R, Java, Bash (Linux)  
 
-**Data & Analytics:**  
-Statistical Modelling, Machine Learning, Feature Engineering,  
-Exploratory Data Analysis (EDA), Data Wrangling, Model Evaluation  
+**Data & Analytics:** Statistical Modelling, Machine Learning, Feature Engineering, Exploratory Data Analysis (EDA), Data Wrangling, Model Evaluation  
 
-**Data Engineering & Systems:**  
-Data Pipelines, REST APIs, PostgreSQL, PySpark, Data Integration,  
-High-Performance Computing (HPC), Parallel Processing  
+**Data Engineering & Systems:** Data Pipelines, REST APIs, PostgreSQL, PySpark, Data Integration, High-Performance Computing (HPC), Parallel Processing  
 
-**Cloud & Platforms:**  
-AWS (SageMaker), Kubernetes, Elasticsearch, Git/GitHub  
+**Cloud & Platforms:** AWS (SageMaker), Kubernetes, Elasticsearch, Git/GitHub  
 
-**Analytics & Visualisation:**  
-Tableau, Excel, Data Visualisation, Dashboarding, Analytical Storytelling  
+**Analytics & Visualisation:** Tableau, Data Visualisation, Dashboarding, Analytical Storytelling  
 
-**Optimisation & Algorithms:**  
-Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms  
+**Optimisation & Algorithms:** Mixed Integer Programming (Gurobi), Reinforcement Learning, Search Algorithms  
 
 ---
 
