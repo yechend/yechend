@@ -61,7 +61,7 @@ My experience spans:
 - Built a modular **Java decision engine** using object-oriented design and rule-based logic  
 - Improved maintainability and structured problem solving through class hierarchies and constrained decision modelling  
 
-🔹 **Large-Scale Data Processing – HPC & Parallel Computing**
+🔹 **[Large-Scale Data Processing – HPC & Parallel Computing](https://github.com/yechend/twitter-hpc-parallel-processing)**
 - Processed a **120GB Twitter dataset** using parallel computing workflows  
 - Achieved **7.5× speedup on 1 core** and **30× speedup on 8 cores** through optimisation  
 
